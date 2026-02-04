@@ -1,0 +1,12 @@
+ID: 1 | Nombre: RRHH | Ubicación: Madrid
+ID: 2 | Nombre: Marketing | Ubicación: Barcelona
+ID: 3 | Nombre: Desarrollo | Ubicación: Madrid
+ID: 4 | Nombre: I+D | Ubicación: Asturias
+ID: 10 | Nombre: VENTAS | Ubicación: MADRID
+ID: 20 | Nombre: PRODUCCION | Ubicación: BARCELONA
+ID: 30 | Nombre: CENTRAL | Ubicación: MADRID
+ID: 40 | Nombre: RRHH | Ubicación: MADRID
+ID: 50 | Nombre: Party | Ubicación: MADRID
+ID: 60 | Nombre: SEGARO_AMEGO | Ubicación: BARCELONA
+ID: 61 | Nombre: SOY | Ubicación: TU ANO
+ID: 62 | Nombre: SOY | Ubicación: TU ANO

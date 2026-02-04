@@ -1,0 +1,26 @@
+# --- IDE (WebStorm / JetBrains) ---
+.idea/
+*.iml
+cmake-build-*/
+out/
+
+# --- Node.js ---
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# --- Entorno y Secretos (Importante) ---
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# --- Base de datos y Temporales ---
+*.sql
+*.sqlite
+.DS_Store
+dist/
+build/
