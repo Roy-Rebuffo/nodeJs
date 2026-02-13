@@ -18,7 +18,7 @@ export const Emp = sequelize.define('emp',
         },
         mgr: {
             type: Sequelize.INTEGER,
-            allowNull: false
+            allowNull: true
         },
         sal: {
             type: Sequelize.DOUBLE,
@@ -26,7 +26,7 @@ export const Emp = sequelize.define('emp',
         },
         comm: {
             type: Sequelize.DOUBLE,
-            allowNull: false
+            allowNull: true
         },
         deptno:{
             type: Sequelize.INTEGER,

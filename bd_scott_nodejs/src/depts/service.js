@@ -26,7 +26,7 @@ const findDeptEmps= async (deptno) => {
 }
 
 const create = async (userObj) => {
-  const newUser = await userRepository.create(userObj);
+  const newUser = await deptRepository.create(userObj);
   return {
     user: newUser
   }
